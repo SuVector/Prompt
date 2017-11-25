@@ -27,7 +27,7 @@
   <div class="section no-pad-bot" id="index-banner">
     <div class="container">
       <br><br>
-      <h1 class="header center orange-text">Prompt</h1>
+      <h1 class="header center orange-text"><img src="http://postfiles12.naver.net/MjAxNzExMjVfMTYg/MDAxNTExNTk3MzIyOTMx.V2OB-A-CrTO1SMWDlGuRSY5juQIZGtE-ING6UtnNS_4g.xCoKSFDbe0A2wT2zz_khq4GuKSmfwO2LF5iQfeKttvkg.PNG.alsduq41/prompt-d.png?type=w773" alt="Prompt*"></h1>
       <div class="row center">
         <h5 class="header col s12 light">대전대성고등학교 컴퓨터 동아리</h5>
       </div>
