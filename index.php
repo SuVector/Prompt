@@ -10,11 +10,10 @@
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
   <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
 </head>
-<? php
 <body>
   <nav class="light-blue lighten-1" role="navigation">
     <div class="nav-wrapper container"><a id="민" href="#" class="brand-logo">prompt*</a>
-      <ul class="right hide-on-med-and-down">
+      <ul id="log-in" class="right">
         <li><a href="https://nid.naver.com/nidlogin.login">로그인</a></li>
       </ul>
 
@@ -107,12 +106,9 @@
     </div>
   </footer>
 
-
   <!--  Scripts-->
   <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
   <script src="js/materialize.js"></script>
   <script src="js/init.js"></script>
-?>
-
   </body>
 </html>
