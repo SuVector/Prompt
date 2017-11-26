@@ -12,7 +12,7 @@
 </head>
 <body>
   <nav class="light-blue lighten-1" role="navigation">
-    <div class="nav-wrapper container"><a id="민" href="" class="brand-logo">prompt*</a>
+    <div class="nav-wrapper container"><a id="no-hangul" href="" class="brand-logo center">prompt*</a>
       <ul id="log-in" class="right">
         <li><a href="https://nid.naver.com/nidlogin.login">로그인</a></li>
       </ul>
@@ -20,7 +20,7 @@
       <ul id="nav-mobile" class="side-nav">
         <li><a href="">메인</a></li>
       </ul>
-      <a href="" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
+      <a href="" data-activates="nav-mobile" class="material-icons"><i class="material-icons">menu</i></a>
     </div>
   </nav>
   <div class="section no-pad-bot" id="index-banner">
