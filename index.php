@@ -12,7 +12,7 @@
 </head>
 <body>
   <nav class="light-blue lighten-1" role="navigation">
-    <div class="nav-wrapper container"><a id="민" href="#" class="brand-logo">prompt*</a>
+    <div class="nav-wrapper container"><a id="민" href="" class="brand-logo">prompt*</a>
       <ul id="log-in" class="right">
         <li><a href="https://nid.naver.com/nidlogin.login">로그인</a></li>
       </ul>
@@ -20,13 +20,13 @@
       <ul id="nav-mobile" class="side-nav">
         <li><a href="">메인</a></li>
       </ul>
-      <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
+      <a href="" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
     </div>
   </nav>
   <div class="section no-pad-bot" id="index-banner">
     <div class="container">
       <br><br>
-      <h1 class="header center"><img src="img/prompt-d.png" alt="Prompt*"></h1>
+      <h1 class="header center"><a href=""><img src="img/prompt-d.png" alt="Prompt*"></a></h1>
       <div class="row center">
         <h5 class="header col s12 light">대전대성고등학교 컴퓨터 동아리</h5>
       </div>
