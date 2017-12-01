@@ -16,11 +16,31 @@
       <ul id="log-in" class="right">
         <li><a href="https://nid.naver.com/nidlogin.login">로그인</a></li>
       </ul>
-
-      <ul id="nav-mobile" class="side-nav">
-        <li><a href="">메인</a></li>
-      </ul>
-      <a href="" data-activates="nav-mobile" class="material-icons"><i class="material-icons">menu</i></a>
+      <ul id="slide-out" class="side-nav">
+           <li>
+               <div class="user-view">
+                   <div class="background">
+                       <img class="responsive-img" src="img/nature.jpg">
+                   </div>
+                   <a href="#!user"><img class="circle" src="img/anya.png">
+                   </a>
+                   <a href="#!name"><span class="white-text name">Name</span></a>
+                   <a href="#!email"><span class="white-text email">email@gmail.com</span></a>
+               </div>
+           </li>
+           <li><a href="#!"><i class="material-icons">cloud</i>First Link With Icon</a>
+           </li>
+           <li><a href="#!">Second Link</a>
+           </li>
+           <li>
+               <div class="divider"></div>
+           </li>
+           <li><a class="subheader">Subheader</a>
+           </li>
+           <li><a class="waves-effect" href="#!">Third Link With Waves</a>
+           </li>
+       </ul>
+      <a href="" data-activates="slide-out" class="button-collapse"><i class="material-icons">menu</i></a>
     </div>
   </nav>
   <div class="section no-pad-bot" id="index-banner">
