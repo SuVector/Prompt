@@ -16,11 +16,25 @@
       <ul id="log-in" class="right">
         <li><a href="https://nid.naver.com/nidlogin.login">로그인</a></li>
       </ul>
-
-      <ul id="nav-mobile" class="side-nav">
-        <li><a href="">메인</a></li>
+      <ul id="slide-out" class="side-nav">
+        <li>
+          <div class="user-view">
+            <div class="background">
+              <img class="img-responsive" src="img/pie.jpg">
+            </div>
+            <a href="#!user"><img class="img-responsive circle" src="img/anya.png" ></a>
+            <a href="#!name"><span class="white-text name">Anastasia</span></a>
+            <a href="#!email"><span class="white-text email">anastasia@idomaster.jp</span></a>
+          </div>
+        </li>
+        <li><a href="#!"><i class="material-icons">cloud</i>Profile</a></li>
+        <li><a href="#!">일반 게시판</a></li>
+        <li><a href="#!">코딩 게시판</a></li>
+        <li><div class="divider"></div></li>
+        <li><a class="subheader">Link</a></li>
+        <li><a class="waves-effect" href="#!">Source</a></li>
       </ul>
-      <a href="" data-activates="nav-mobile" class="material-icons"><i class="material-icons">menu</i></a>
+      <a href="#" data-activates="slide-out" class="button-collapse show-on-large"><i class="material-icons">menu</i></a>
     </div>
   </nav>
   <div class="section no-pad-bot" id="index-banner">
